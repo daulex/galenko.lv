@@ -1,0 +1,1 @@
+!function(i,t,n){"use strict";var o={init:function(){for(var i in this.win=n(window),this.doc=n(t),this.body=n("body"),this)"function"==typeof this[i].init&&this[i].init()},test_func:{init:function(){console.log("Test init!")}}};i.app=o,n(i).ready(function(){o.init()})}(window,document,jQuery);
