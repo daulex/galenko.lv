@@ -64,7 +64,7 @@ a img.aligncenter {display: block;margin-left: auto;margin-right: auto;}
 .content-fact-box h1.cfb-title, .content-fact-box h1.a-title, .content-fact-box h2.cfb-title, .content-fact-box h2.a-title, .content-fact-box h3.cfb-title, .content-fact-box h3.a-title, .content-fact-box h4.cfb-title, .content-fact-box h4.a-title, .content-fact-box h5.cfb-title, .content-fact-box h5.a-title, .content-fact-box h6.cfb-title, .content-fact-box h6.a-title {font-size: 18px;line-height: 21px;margin-bottom: 20px;font-weight: 600;text-transform: uppercase;}
 section.block:last-of-type {margin-bottom: 150px;}
 @media (max-width: 768px) {section.block:last-of-type {margin-bottom: 70px;}}
-body {font-family: sans-serif;font-weight: 300;font-size: 16px;line-height: 1.67;background: #f7f9fb;}
+body {font-family: sans-serif;font-weight: 300;font-size: 16px;line-height: 1.67;background: #f7f9fb;max-width:100%;overflow-x:hidden;}
 a {color: #5085a5;}
 a:hover {color: #31708e;}
 h1, h2, h3, h4, h5, h6 {font-family: Georgia,sans-serif;font-weight: 700;}
